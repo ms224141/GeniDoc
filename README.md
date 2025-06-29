@@ -1,4 +1,8 @@
 # GenieDoc – AI-Powered Document Assistant
+### 🔗 Video Demo
+
+Watch the walkthrough here:  
+[👉 GenieDoc Loom Demo](https://www.loom.com/share/0a26bccb2c3740ffae4bda01cc75eea9?sid=a9d6eb66-ca5d-4af6-833f-22524d3ea8fd)
 
 GenieDoc is a Streamlit-based document assistant that enables users to interact with PDF or TXT files using natural language. The application offers features like document-based Q&A, summarization, and self-testing with feedback, powered by language models and vector-based search.
 
